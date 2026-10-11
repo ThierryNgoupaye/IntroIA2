@@ -3,12 +3,12 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/TDs/TD1/data" />
+      <excludeFolder url="file://$MODULE_DIR$/TDs/TD2/data" />
+      <excludeFolder url="file://$MODULE_DIR$/TDs/TD3/data" />
+      <excludeFolder url="file://$MODULE_DIR$/TDs/TD4/data" />
     </content>
     <orderEntry type="jdk" jdkName="~/projets/polytech-dijon/IntroIA-MA/.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
-  <component name="PackageRequirementsSettings" />
-  <component name="PyDocumentationSettings" />
-  <component name="ReSTService" />
-  <component name="TestRunnerService" />
 </module>
